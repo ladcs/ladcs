@@ -3,41 +3,26 @@
   
   ### Oi 👋
 
-  Me chamo Luciano Augusto, sou engenheiro eletricista(UEL) e desenvolvedor web(Trybe).
+  Me chamo Luciano Augusto, sou engenheiro eletricista (UEL) e desenvolvedor web (Trybe).
 
-  Tenho interesse por:
+  Tenho interesse por **desenvolvimento full-stack**
+  
+  🌱 estou estudando **Python e Java**
+  
+  💬 Posso conversar sobre **react, js, ts e node**
 
-  desenvolvimento full-stack;
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
 </details>
-
-<details>
-  <summary><strong> English </strong></summary><br />
 
 ### Hi 👋
   
-  My name is Luciano Augusto, I'm electrical engineer(UEL) and dev web(trybe).
+  My name is Luciano Augusto, I'm electrical engineer (UEL) and dev web (trybe).
 
-  I'm looking for:
+  I'm looking for full-stack dev;
   
-  full-stack dev;
-  desenvolvimento full-stack;
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-</details>
+  - 🌱 I’m currently learning **Python and Java**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ladcs&label=Profile%20views&color=0e75b6&style=flat" alt="ladcs" /> </p>
+  - 💬 Ask me about **react, js, ts and node**
+
 
 <h3 align="left">Connect with me:</h3>
 <div> 
