@@ -2,6 +2,14 @@
 
 Me chamo Luciano Augusto / My name is Luciano Augusto!
 
+<details>
+  <summary><strong>🤷🏽‍♀️ Como entregar</strong></summary><br />
+
+  Para entregar o seu projeto você deverá criar um *Pull Request* neste repositório.
+
+  Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://app.betrybe.com/course/4d67f5b4-34a6-489f-a205-b6c7dc50fc16/) e nosso [Blog - Git & GitHub](https://blog.betrybe.com/tecnologia/git-e-github/) sempre que precisar!
+</details>
+
 <div>
   <a href="https://github.com/ladcs">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ladcs&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
