@@ -30,7 +30,7 @@
   <a href= "https://www.linkedin.com/in/ladcs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ladcs&show_icons=true&locale=en&layout=compact" alt="ladcs" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ladcs&show_icons=true&locale=en" alt="ladcs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ladcs&show_icons=true&locale=en&include_all_commits=true" alt="ladcs" /></p>
 <p align="left">
 </p>
 
