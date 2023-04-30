@@ -7,7 +7,7 @@
 
   Tenho interesse por **desenvolvimento full-stack**
   
-  🌱 estou estudando **Python e Java**
+  🌱 estou estudando **Golang**
   
   💬 Posso conversar sobre **react, js, ts e node**
 
@@ -19,7 +19,7 @@
 
   I'm looking for full-stack dev;
   
-  - 🌱 I’m currently learning **Python and Java**
+  - 🌱 I’m currently learning **Golang**
 
   - 💬 Ask me about **react, js, ts and node**
 
