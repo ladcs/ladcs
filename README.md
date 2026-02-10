@@ -7,9 +7,9 @@
 
   Tenho interesse por **desenvolvimento full-stack**
   
-  🌱 estou estudando **Golang**
+  🌱 estou estudando **ML**
   
-  💬 Posso conversar sobre **react, js, ts e node**
+  💬 Posso conversar sobre **Python, react, js, ts e node**
 
 </details>
 
