@@ -19,9 +19,9 @@
 
   I'm looking for full-stack dev;
   
-  - 🌱 I’m currently learning **Golang**
+  - 🌱 I’m currently learning **ML**
 
-  - 💬 Ask me about **react, js, ts and node**
+  - 💬 Ask me about **Python, react, js, ts and node**
 
 
 <h3 align="left">Connect with me:</h3>
