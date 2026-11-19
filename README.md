@@ -1,58 +1,88 @@
+# Luciano Augusto de Castro Silva
+
+**Electrical Engineer | Embedded Systems | Backend Development**
+
+Sou engenheiro eletricista formado pela Universidade Estadual de Londrina (UEL), com experiência profissional em desenvolvimento backend, automação e integração de sistemas.
+
+Tenho interesse na integração entre engenharia elétrica, eletrônica, sistemas embarcados e desenvolvimento de software. Minha trajetória combina conhecimentos acadêmicos em eletrônica e microcontroladores com experiência prática em desenvolvimento de APIs, processamento de dados e soluções em cloud.
+
+**Principais tecnologias:** C, Python, C#, .NET, FastAPI, PostgreSQL, Docker, GCP e STM32.
+
+---
+
 <details>
-  <summary><strong> Português </strong></summary><br />
-  
-  ### Oi 👋
+<summary><strong>Português</strong></summary>
 
-  Me chamo Luciano Augusto, sou engenheiro eletricista (UEL) e desenvolvedor web (Trybe).
+### Olá! 👋
 
-  Tenho interesse por **desenvolvimento full-stack**
-  
-  🌱 estou estudando **ML**
-  
-  💬 Posso conversar sobre **Python, react, js, ts e node**
+Sou engenheiro eletricista e desenvolvedor de software, interessado em construir soluções que conectem hardware e software.
+
+- ⚡ Formação em Engenharia Elétrica pela UEL.
+- 💻 Experiência profissional com backend, APIs REST, automação e processamento de dados.
+- 🔧 Interesse em sistemas embarcados, eletrônica e desenvolvimento de firmware.
+- 🌱 Atualmente aprofundando meus conhecimentos em C#, .NET e engenharia de software.
+- 💬 Tecnologias: C, Python, C#, FastAPI, PostgreSQL, Docker e GCP.
 
 </details>
 
-### Hi 👋
-  
-  My name is Luciano Augusto, I'm electrical engineer (UEL) and dev web (trybe).
+<details>
+<summary><strong>English</strong></summary>
 
-  I'm looking for full-stack dev;
-  
-  - 🌱 I’m currently learning **ML**
+### Hi! 👋
 
-  - 💬 Ask me about **Python, react, js, ts and node**
+I'm an Electrical Engineer and Software Developer interested in building solutions that connect hardware and software.
 
+- ⚡ BSc in Electrical Engineering from the State University of Londrina (UEL), Brazil.
+- 💻 Professional experience in backend development, REST APIs, automation, and data processing.
+- 🔧 Interested in embedded systems, electronics, and firmware development.
+- 🌱 Currently expanding my knowledge of C#, .NET, and software engineering.
+- 💬 Technologies: C, Python, C#, FastAPI, PostgreSQL, Docker, and GCP.
 
-<h3 align="left">Connect with me:</h3>
-<div> 
-    <a href = "mailto:hpladcs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href= "https://www.linkedin.com/in/ladcs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</p>
+</details>
+
+---
+
+### Connect with me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hpladcs@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ladcs/)
+
+### Languages and Tools
+
+**Programming Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Backend and Databases**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**Cloud and Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+
+### GitHub Statistics
 
 <div align="center">
-<p>
-<a href="https://github-profile-summary-cards.vercel.app/demo.html">Get your own cards now!!</a>
-</p>
 
-<div>
-<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ladcs&theme=github_dark"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ladcs&theme=github_dark" />
 
-<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ladcs&theme=github_dark"/> -->
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ladcs&theme=github_dark" />
 
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ladcs&theme=github_dark"/>
- 
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ladcs&theme=github_dark"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ladcs&theme=github_dark" />
 
 </div>
 
-</div>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-  
-  <div> 
- 
-  ![Snake animation](https://github.com/ladcs/ladcs/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
